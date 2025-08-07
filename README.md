@@ -12,4 +12,4 @@ Welcome! I'm a Senior Data Engineer specializing in cloud-native architecture, A
 - Stubbed webhook through dialogue flow cx to a grounded gemini model
 
 ## 🧠 Skills
-Python, FastAPI, GCP, Azure, Bluesky Jetstream, Async Programming, NLP, LLMs
+Python, Flask, Requests, FastAPI, GCP, Azure, Bluesky Jetstream, Async Programming, NLP, LLMs
