@@ -1,4 +1,4 @@
-# Portfolio
+
 
 # Micah Arrington – Resume & Portfolio
 
